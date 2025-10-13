@@ -68,3 +68,9 @@ OpenCV Haar Cascade models: Pre-trained models included in OpenCV.
 
 Streamlit: For interactive web-based deployment.
 
+
+<img width="1049" height="766" alt="Screenshot 2025-09-30 145409" src="https://github.com/user-attachments/assets/77689071-f6ca-4416-a57f-926447da6703" />
+
+<img width="1013" height="782" alt="Screenshot 2025-09-30 145435" src="https://github.com/user-attachments/assets/b7f65ad9-ea5f-4fb3-ae13-b73636bc744a" />
+
+
