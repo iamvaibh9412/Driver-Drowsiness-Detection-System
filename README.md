@@ -63,9 +63,7 @@ Use deep learning models to improve detection accuracy under poor lighting or oc
 Add sleepiness scoring and logging for fleet management analytics.
 
 🔹 Acknowledgements
-
-
-
+OpenCV Haar Cascade models: Pre-trained models included in OpenCV.
 Streamlit: For interactive web-based deployment.
 
 
